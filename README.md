@@ -1,14 +1,14 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Milan</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hello welcome!!, I'm Milan</b>
 <br>
 
 <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/>
 <p aligh="left">
-  <p>Hola Amigo, welcome!!</br>
+  <p>Hola Amigo!</br>
   I'm Milan, Front End developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>
-  🚧 &nbsp;I'm currently working as a Junior Front-end developer. </a>
+  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  🌱&nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>.\
+  🚧 &nbsp;I'm currently working as a Junior Front-end developer. </a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>

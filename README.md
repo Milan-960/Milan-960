@@ -25,7 +25,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql&logoColor=darkgreen" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />

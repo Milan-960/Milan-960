@@ -7,13 +7,13 @@
   I'm Milan, Front End developer 👨‍💻 from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPyoH8ngTx9ptUbUFkZhZ5Ueo-YzXwpXg1A&usqp=CAU" width="20px"/> <b>Warsaw,Poland</b></p>
 
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🏃‍♂️ &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>.\
+  🏃‍♂️ &nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>.\
   🚧 &nbsp;I'm currently working as a Junior Front-end developer. </a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp;Things I code with 😉</h2>
+<h2> 👨🏻‍💻 &nbsp;Things I code with 😉</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -25,6 +25,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
@@ -37,6 +38,6 @@
   <a href="https://github.com/Milan-960/Milan-960.git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/milan-sachani-9090" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:milan.sachani.ms@.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=#BB001B" /></a>
-  <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 

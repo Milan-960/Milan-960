@@ -1,9 +1,9 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hello welcome!!, I'm Milan</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b> Hello welcome!!, I'm Milan</b>
 <br>
 
 <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/>
 <p aligh="left">
-  <p>Hola Amigo!</br>
+  <p>Hola Amigos!</br>
   I'm Milan, Front End developer 👨‍💻 from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPyoH8ngTx9ptUbUFkZhZ5Ueo-YzXwpXg1A&usqp=CAU" width="20px"/> <b>Warsaw,Poland</b></p>
 
   💡&nbsp;I like to explore new trends and learn new technologies.\

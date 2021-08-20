@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b> Hola welcome To My github profile ♥</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b> Hola welcome To My GITHUB profile ♥</b>
 <br >
 
 <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/>
@@ -15,9 +15,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;Things I code with 😉</h2>
 <p>
- <a style="color:#45b8d8" href="https://code.visualstudio.com/" >
- <img target="_blank" alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
- 
+ <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">
+ <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
+
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />

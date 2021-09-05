@@ -18,7 +18,10 @@
  <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">
  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
 
-  <img alt="HTML5" href="https://www.tutorialspoint.com/html5/index.htm" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />

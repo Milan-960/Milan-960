@@ -18,7 +18,6 @@
 <p>
  <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">
  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
-
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
 
@@ -28,6 +27,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="PWA" src="https://img.shields.io/badge/-PWA-801f95?style=flat-square&logo=PWA&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
@@ -45,4 +45,5 @@
   <a href="https://www.linkedin.com/in/milan-sachani-9090" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:milan.sachani.ms@.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=#BB001B" /></a>
   <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-white?style=flat-square&logo=google&logoColor=black" /></a>
 </p>

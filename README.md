@@ -45,9 +45,7 @@
   <a href="https://www.linkedin.com/in/milan-sachani-9090" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:milan.sachani.ms@.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=#BB001B" /></a>
   <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-white?style=flat-square&logo=google&logoColor=black" />
- </a>  
- <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-%2312100E.svg?&style=for-the-badge&logo=PortFolio&logoColor=black" />
+ <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-%2312100E.svg?&style=for-the-badge&logo=PortFolio&logoColor=white" />
  </a>
 
 </p>

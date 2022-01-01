@@ -50,4 +50,4 @@
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan-960&?theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milan-960&?theme=dark)

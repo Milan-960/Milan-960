@@ -49,6 +49,8 @@
  </a>
 
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=algolia?username=milan-960&theme=dark&show_icons=true)
+
 <p align="center" >
 ![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan-960&show_icons=true)
 </p>

@@ -49,5 +49,3 @@
  </a>
 
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milan-960&?theme=dark)

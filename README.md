@@ -49,3 +49,8 @@
  </a>
 
 </p>
+
+<div>
+<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milan-960&theme=radical&layout=compact)](https://github.com/abenkoula71/github-readme-stats)

@@ -48,6 +48,8 @@
  <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-white?&style=for-the-badge&logo=google&logoColor=black" />
  </a>
 
+  <p align="center">
+    <a href="https://github.com/milan-960/milan-960"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+
 </p>
-
-

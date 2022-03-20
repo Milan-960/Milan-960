@@ -14,7 +14,6 @@
 <br>
 
 <h2> 👨🏻‍💻 Things I code with 😎</h2>
-<br>
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
@@ -37,8 +36,6 @@
 </p>
 
 <h2> 🌎 Where to find me 🔥</h2>
-<br>
-
 <p>
   <a href="https://github.com/Milan-960/Milan-960.git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/milan-sachani-9090" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -46,7 +43,7 @@
   <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-white?&style=for-the-badge&logo=google&logoColor=black" />
  </a>
-<br>
+
   <p align="center">
     <a href="https://github.com/Milan-960/Milan-960"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>

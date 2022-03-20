@@ -2,7 +2,10 @@
 
 <br >
 
-<img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/>
+<!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
+
+<a href="https://app.daily.dev/Milan960"><img align="right" src="https://api.daily.dev/devcards/c4f077510dac4feb951df9312724d6ab.png?r=6sv" width="200" alt="Milan Sachani's Dev Card"/></a>
+
 <p aligh="left">
   <p>I am Milan, Front End developer 👨‍💻 from 🇵🇱 <b>Warsaw, Poland</b></p>
 
@@ -10,6 +13,7 @@
  🏃‍♂️&nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> , <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>\
  🚧&nbsp;I am currently working as a Front-end developer.</a>\
  💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
+
 </p>
 <br>
 

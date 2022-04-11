@@ -59,6 +59,7 @@
   </tr>
 </table>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/milan-960)
+[![Gists Badge](https://badges.pufler.dev/gists/milan-960)]
+
 
 </p>

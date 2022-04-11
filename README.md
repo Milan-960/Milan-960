@@ -59,7 +59,6 @@
   </tr>
 </table>
 
-[![Gists Badge](https://badges.pufler.dev/gists/milan-960)](https://badges.pufler.dev)
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 </p>

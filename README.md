@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-[![Gists Badge](https://badges.pufler.dev/gists/milan-960)]
+[![Gists Badge](https://badges.pufler.dev/gists/milan-960)](https://badges.pufler.dev)
 
 
 </p>

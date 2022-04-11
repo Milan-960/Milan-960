@@ -51,7 +51,15 @@
   <p align="center">
     <a href="https://github.com/Milan-960/Milan-960"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
- 
-  ![Visitor Count](https://profile-counter.glitch.me/{milan-960}/count.svg)
+
+    <p>You are visitor</p>
+![Visitor Count](https://profile-counter.glitch.me/{milan-960}/count.svg)
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/milan-960/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 </p>

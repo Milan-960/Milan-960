@@ -59,6 +59,6 @@
   </tr>
 </table>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/milan-960/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/milan-960)
 
 </p>

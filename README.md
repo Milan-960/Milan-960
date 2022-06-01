@@ -1,6 +1,4 @@
-# <b> Hola Amigo welcome To My GITHUB profile ♥</b>
-
-<br >
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="32px" /> <b> Hola Amigo welcome To My GITHUB profile ♥ </b>
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 

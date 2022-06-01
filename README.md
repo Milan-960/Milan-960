@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="32px" /><b> Hola Amigo welcome To My GITHUB profile ♥</b>
+# <b> Hola Amigo welcome To My GITHUB profile ♥</b>
 
 <br >
 

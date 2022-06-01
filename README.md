@@ -1,4 +1,6 @@
-# <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32px" /> <b> Hola Amigo welcome To My GITHUB profile ♥ </b>
+# <b> Hola Amigo welcome To My GITHUB profile ♥ </b>
+
+<!-- <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32px" />&nbsp;<b> Hola Amigo welcome To My GITHUB profile ♥ </b> -->
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 

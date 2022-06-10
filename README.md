@@ -9,7 +9,7 @@
 
 💡&nbsp;I like to explore new trends and learn new technologies\
  🏃‍♂️&nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> , <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>\
- 🚧&nbsp;I am currently working as a Front-end developer.</a>\
+ 🚧&nbsp;I am currently working as a Software Engineer.</a>\
  💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
 
 </p>

@@ -51,6 +51,8 @@
   <p align="center">
     <a href="https://github.com/Milan-960/Milan-960"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
+  
+  <img alt="snake eating my contribution" src="https://github.com/Milan-960/Milan-960/blob/output/github-contribution-grid-snake.svg">
 
 <table>
   <tr>

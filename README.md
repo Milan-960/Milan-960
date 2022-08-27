@@ -47,12 +47,12 @@
   <a href="https://www.instagram.com/milan_00269/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://milansachani.dev" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-PortFolio-white?&style=for-the-badge&logo=google&logoColor=black" />
  </a>
-
-  <p align="center">
-    <a href="https://github.com/Milan-960/Milan-960"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-  </p>
   
+  <p align="center">
+  <a href="https://github.com/Milan-960/Milan-960">
   <img alt="snake eating my contribution" src="https://github.com/Milan-960/Milan-960/blob/output/github-contribution-grid-snake.svg">
+  </a>
+  </p>
 
 <table>
   <tr>

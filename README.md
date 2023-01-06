@@ -11,7 +11,6 @@
  🏃‍♂️&nbsp;I am on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> , <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and other new Tech\
  🚧&nbsp;I am currently working as a Software Engineer.</a>\
  💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
-
 </p>
 <br>
 
@@ -61,4 +60,5 @@
   </tr>
 </table>
 
+![MasterHead](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
 </p>

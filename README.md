@@ -7,7 +7,7 @@
 <p aligh="left">
   <p>I am Milan, Front End developer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>
 
-💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we forget about chatGPT 😜\
+💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we&nbsp;forget about chatGPT 😜\
  🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> , <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \
  🚧&nbsp;Full time Software Engineer</a>\
  💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
@@ -31,7 +31,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">
  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
 </p>

@@ -8,7 +8,7 @@
   <p>I am Milan, Front End developer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>
 
 💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we&nbsp;forget about chatGPT 😜\
- 🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> , <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \
+ 🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://www.typescriptlang.org/" target="_blank"><u>Typesctipt</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \
  🚧&nbsp;Full time Software Engineer</a>\
  💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
 

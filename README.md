@@ -19,7 +19,7 @@
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />
     <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-45b8d8?style=flat-square&logo=react&logoColor=white" />

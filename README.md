@@ -29,6 +29,7 @@
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-801f95?style=flat-square&logo=PWA&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
+  <img alt="AWS" src="https://img.shields.io/badge/-Aws-white?style=flat-square&logo=amazon&logoColor=gray" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">

@@ -5,7 +5,7 @@
 <a href="https://app.daily.dev/Milan960"><img align="right" src="https://api.daily.dev/devcards/c4f077510dac4feb951df9312724d6ab.png?r=6sv" width="300" alt="Milan Sachani's Dev Card"/></a>
 
 <p aligh="left">
-  <p>I am Milan, Front End Engineer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>
+  <p>I am Milan, Software Engineer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>
 
 💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we&nbsp;forget about chatGPT 😜\
  🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#45b8d8" href="https://www.typescriptlang.org/" target="_blank"><u>Typesctipt</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \

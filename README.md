@@ -9,8 +9,8 @@
 
 💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we&nbsp;forget about chatGPT 😜\
  🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>Reactjs</u></a>, <a style="color:#F7DF1E" href="https://nextjs.org/" target="_blank"><u>Nextjs</u></a>, <a style="color:#45b8d8" href="https://www.typescriptlang.org/" target="_blank"><u>Typesctipt</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \
- 🚧&nbsp;Full time Software Engineer</a>\
- 💬&nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion and new ideas.
+ 🚧&nbsp;Seinor Front end Engineer</a>\
+ 💬&nbsp;Feel free to reach out to me for some interesting discussion and new ideas.
 
 </p>
 <br>

@@ -1,8 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
 
 on:
   workflow_dispatch:
@@ -10,48 +6,36 @@ on:
     branches:
       - main
   schedule:
-      # every time you push the changes
     - cron: "0 0 * * *"
 
-# This command allows us to run the Action automatically from the Actions tab.
-
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v3.5.1
 
-    # Generates the snake  
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake Game from Contribution Grid
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: Milan-960
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Push the changes
-      - name: Push changes
+      - name: Push changes to master
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:

@@ -9,7 +9,7 @@
 
 💡&nbsp;Exploring new trends and new technologies <b>PS:</b> how can we&nbsp;forget about chatGPT 😜\
  🏃‍♂️&nbsp;On track to gain more knowledge about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>Reactjs</u></a>, <a style="color:#F7DF1E" href="https://nextjs.org/" target="_blank"><u>Nextjs</u></a>, <a style="color:#45b8d8" href="https://www.typescriptlang.org/" target="_blank"><u>Typesctipt</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:green" href="https://nodejs.org/en/" target="_blank"><u>Node.js</u></a> \
- 🚧&nbsp;Senior Front end Engineer!!</a>\
+😈&nbsp;Senior Front end Engineer!!</a>\
  💬&nbsp;Feel free to reach out to me for some interesting discussion and new ideas.
 
 </p>
@@ -29,7 +29,8 @@
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-801f95?style=flat-square&logo=PWA&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=darkgreen" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Aws-white?style=flat-square&logo=amazon&logoColor=gray" />
+  <img alt="AWS" src="https://img.shields.io/badge/-Aws-ffca28?style=flat-square&logo=amazon&logoColor=gray" />
+  <img alt="GCP" src="https://img.shields.io/badge/-Gcp-white?style=flat-square&logo=google&logoColor=gray" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <a style="color:#45b8d8" href="https://code.visualstudio.com/" target="_blank">

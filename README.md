@@ -15,7 +15,8 @@
 </p>
 <br>
 
-<h2 style="border:none"> 👨🏻‍💻 Things I code with 😎</h2>
+<h2 style="border-bottom: none;"> 👨🏻‍💻 Things I code with 😎</h2>
+
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>

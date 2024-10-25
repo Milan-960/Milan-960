@@ -15,7 +15,7 @@
 </p>
 <br>
 
-<h2 style="border-bottom: none;"> 👨🏻‍💻 Things I code with 😎</h2>
+<p style="font-size: 1.5em; font-weight: bold; margin: 0px 0px 15px 0px;">👨🏻‍💻 Things I code with 😎</p>
 
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">

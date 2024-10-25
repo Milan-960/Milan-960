@@ -2,7 +2,9 @@
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 
-<a target="_blank" href="https://app.daily.dev/milan960"><img align="right" src="./devcard.png" width="300" alt="Milan Sachani's Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/milan960" title="Visit Milan Sachani's Dev Card">
+  <img align="right" src="./devcard.png" width="300" alt="Milan Sachani's Dev Card"/>
+</a>
 
 <p aligh="left">
   <p>I am Milan, Software Engineer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>

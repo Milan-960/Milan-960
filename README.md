@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 
-<a href="https://app.daily.dev/Milan960"><img align="right" style="z-index:99" src="./devcard.png" width="300" alt="Milan Sachani's Dev Card"/></a>
+<a href="https://app.daily.dev/Milan960"><img align="right" src="./devcard.png" width="300" alt="Milan Sachani's Dev Card"/></a>
 
 <p aligh="left">
   <p>I am Milan, Software Engineer 👨‍💻 from 🇵🇱  <b>Warsaw, Poland</b></p>
@@ -15,7 +15,7 @@
 </p>
 <br>
 
-<h2 style=""> 👨🏻‍💻 Things I code with 😎</h2>
+<h2 style="border:none"> 👨🏻‍💻 Things I code with 😎</h2>
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>

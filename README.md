@@ -15,7 +15,7 @@
 </p>
 <br>
 
-<p style="font-size: 1.5em; font-weight: bold; margin: 0px 0px 15px 0px;">👨🏻‍💻 Things I code with 😎</p>
+<p style="font-size: 2em; font-weight: bold; margin: 0px 0px 15px 0px;">👨🏻‍💻 Things I code with 😎</p>
 
 <p>
 <a style="color:#45b8d8" href="https://www.tutorialspoint.com/html5/index.htm" target="_blank">
@@ -38,7 +38,7 @@
  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /></a>
 </p>
 
-<h2 style="border:none"> 🌎 Where to find me 🔥</h2>
+<p style="font-size: 2em; font-weight: bold; margin: 0px 0px 15px 0px;">🌎 Where to find me 🔥</p>
 <p>
   <a href="https://github.com/Milan-960/Milan-960.git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
    <a href="https://stackoverflow.com/users/17144934/milan-sachani" target="_blank"><img alt="milan" src="https://img.shields.io/badge/-stackoverflow-FF6C37?style=for-the-badge&logo=stackoverflow&logoColor=white" />

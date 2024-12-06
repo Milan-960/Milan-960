@@ -25,9 +25,10 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />
     <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-fdf8fd?style=flat-square&logo=SASS&logoColor=db6bd1" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style?style=flat-square&logo=openjdk&logoColor=white">
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="PWA" src="https://img.shields.io/badge/-PWA-801f95?style=flat-square&logo=PWA&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />

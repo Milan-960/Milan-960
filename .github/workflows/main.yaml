@@ -29,7 +29,7 @@ jobs:
 
       # Generates the snake
       - name: Generate Snake Game from Contribution Grid
-        uses: Platane/snk@v3.0.0
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name:
             Milan-960
